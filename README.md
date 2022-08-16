@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lipapi
 - 👀 I’m interested in making softwares
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,java, html & css
 - 💞️ I’m looking to collaborate on game coding
 - 📫 How to reach me @lipapi1 on twitter
 
